@@ -1,7 +1,7 @@
 [![FIBER teaser](resources/teaser.png)](https://fiberaa.github.io/)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.24675-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2610.24675)
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/pdf/2610.24675)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](resources/FIBER.pdf)
 [![Project](https://img.shields.io/badge/Project-Website-0065D3?logo=rocket&logoColor=white)](https://fiberaa.github.io/)
 [![Live demo](https://img.shields.io/badge/Live_Demo-MuJoCo-2ea44f?logo=googlechrome&logoColor=white)](https://fiberaa.github.io/#interactive)
 [![Video](https://img.shields.io/badge/Overview-Video-555555)](https://fiberaa.github.io/static/videos/FIBER_demo.mp4)
